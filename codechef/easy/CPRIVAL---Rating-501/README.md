@@ -70,7 +70,7 @@ Dominater's final rating is $2520$. Everule's final rating is $2525$. Hence, Eve
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-19T18:21:53.999Z  
+**Submitted:** 2026-07-19T18:22:05.997Z  
 
 ```py
 # cook your dish here
