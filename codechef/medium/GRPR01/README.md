@@ -70,7 +70,7 @@ Since all cells have the same signal strength after $2$ hours, the output is $2$
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-20T13:45:03.200Z  
+**Submitted:** 2026-07-20T13:45:05.431Z  
 
 ```py
 # cook your dish here
