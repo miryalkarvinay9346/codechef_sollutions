@@ -11,5 +11,5 @@ for i in range(p):
         v.append(s)
     else:
         v.append(b[(len(b))//2])
-for j in range(k):
+for j in range(len(v)):
     print(v[j],end=" ")
