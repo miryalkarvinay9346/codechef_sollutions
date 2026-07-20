@@ -44,12 +44,13 @@ The medians of the contiguous subarrays of length $4$ are $2$, $2$, $5$, and $3$
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-20T13:48:42.772Z  
+**Submitted:** 2026-07-20T13:49:32.780Z  
 
 ```py
 # cook your dish here
 n,k=map(int,input().split())
 a=list(map(int,input().split()))
+v=[]
 
 ```
 
