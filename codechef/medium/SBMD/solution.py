@@ -4,7 +4,7 @@ a=list(map(int,input().split()))
 v=[]
 p=n-k+1
 while p>0:
-    for i in range(n-k+1):
+    for i in range(n):
         b=a[i:i+k]
         b.sort(reverse=True)
         if len(b)%2==0:
