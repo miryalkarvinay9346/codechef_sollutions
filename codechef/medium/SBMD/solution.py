@@ -7,8 +7,9 @@ for i in range(p):
     b=a[i:i+k]
     b.sort()
     if len(b)%2==0:
-        s=(b[len(b)//2]+b[(len(b)//2)+1])//2
+        s=b[(len(b)//2)-1]
         v.append(s)
     else:
         v.append(b[(len(b))//2])
-print(v)
+for j in range(len(v)):
+    print(v[j],end=" ")
